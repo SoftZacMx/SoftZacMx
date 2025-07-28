@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Brayan Rodriguez
 
-<!--
-**SoftZacMx/SoftZacMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack web developer** with a passion for building scalable systems that solve real-world problems. I specialize in developing business-oriented platforms like ERPs, management tools, and automation systems.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: Angular, TypeScript, JavaScript, HTML, CSS  
+- **Backend**: Node.js, Express, REST APIs  
+- **Database**: MySQL, SQL  
+- **Other**: DevOps basics, process automation, modular architectures  
+
+## 🚀 What I Do
+
+- Design and develop full web systems with clean and maintainable code  
+- Build intuitive admin dashboards and reporting tools  
+- Automate processes to improve efficiency  
+- Deploy and maintain web applications  
+
+## 📈 Currently Exploring
+
+- Artificial Intelligence 🤖  
+- Data Analytics 📊  
+- Cloud Technologies ☁️  
+
+## 🤝 Let's Connect
+
+I'm open to collaboration, freelance projects, and tech-driven opportunities that create impact.
+
+<!-- Optional: Add your contact links below -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)  
+<!-- O puedes agregar email, portfolio o redes si quieres -->
+
+---
