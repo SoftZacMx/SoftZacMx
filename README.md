@@ -41,10 +41,10 @@ I build tools that simplify processes, improve operations, and deliver value to 
 ### 📬 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
+  <a href="www.linkedin.com/in/brayan-alexis-rodriguez-ramirez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
   </a>
-  <!-- Puedes agregar más enlaces si quieres -->
+
 </p>
 
 ---
